@@ -1,0 +1,5 @@
+spyne
+sqlalchemy 
+psycopg2-binary
+pytest
+lxml
