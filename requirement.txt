@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+pytest
+spyne
+lxml
+PyQt5
+black
